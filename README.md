@@ -2,6 +2,8 @@
 
 ### Cloud Enthusiast | Informatics Student | Aspiring Cloud Architect
 
+<br />
+
 An active Informatics undergraduate student focused on building scalable cloud solutions and mastering the AWS ecosystem. Passionate about bridging the gap between development and cloud infrastructure.
 
 <br />
