@@ -6,7 +6,10 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=333333&center=true&vCenter=true&width=600&lines=Cloud+Infrastructure+Enthusiast;Building+Scalable+AWS+Solutions;Aspiring+Cloud+Architect" alt="Typing SVG" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Cloud+Infrastructure+Enthusiast;Building+Scalable+AWS+Solutions;Aspiring+Cloud+Architect">
+      <img alt="Typing SVG" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=333333&center=true&vCenter=true&width=600&lines=Cloud+Infrastructure+Enthusiast;Building+Scalable+AWS+Solutions;Aspiring+Cloud+Architect">
+    </picture>
   </a>
 </div>
 
